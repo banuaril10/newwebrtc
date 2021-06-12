@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/newwebrtc/static/css/main.0fa05b8b.chunk.css",
+    "main.js": "/newwebrtc/static/js/main.e171adea.chunk.js",
+    "main.js.map": "/newwebrtc/static/js/main.e171adea.chunk.js.map",
+    "runtime-main.js": "/newwebrtc/static/js/runtime-main.c97fa7ea.js",
+    "runtime-main.js.map": "/newwebrtc/static/js/runtime-main.c97fa7ea.js.map",
+    "static/js/2.ab1b521a.chunk.js": "/newwebrtc/static/js/2.ab1b521a.chunk.js",
+    "static/js/2.ab1b521a.chunk.js.map": "/newwebrtc/static/js/2.ab1b521a.chunk.js.map",
+    "index.html": "/newwebrtc/index.html",
+    "precache-manifest.e98cd1f53c7c35fb038cb84e50a422f5.js": "/newwebrtc/precache-manifest.e98cd1f53c7c35fb038cb84e50a422f5.js",
+    "service-worker.js": "/newwebrtc/service-worker.js",
+    "static/css/main.0fa05b8b.chunk.css.map": "/newwebrtc/static/css/main.0fa05b8b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c97fa7ea.js",
+    "static/js/2.ab1b521a.chunk.js",
+    "static/css/main.0fa05b8b.chunk.css",
+    "static/js/main.e171adea.chunk.js"
+  ]
+}
